@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/cuthbert/Program/YOLO/models/train/model.ckpt-0"
+all_model_checkpoint_paths: "/home/cuthbert/Program/YOLO/models/train/model.ckpt-0"

@@ -1,1 +1,9 @@
-__pycache__/
+__pycache__/*
+net/__pycache__/*
+dataset/__pycache__/*
+solver/__pycache__/*
+utils/__pycache__/*
+utils/*.pyc
+solver/*.pyc
+net/*.pyc
+dataset/*.pyc

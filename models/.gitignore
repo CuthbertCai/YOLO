@@ -1,2 +1,2 @@
 pretrain/*.ckpt
-train/*
+train/*.*

@@ -1,16 +1,10 @@
-# Created by .ignore support plugin (hsz.mobi)
-# the data of VOC2007
-data/VOCdevkit2007
-data/pascal_voc.txt
-
-#the pretrain ckpt and train ckpt files
-models/pretrain/*
-models/train/*
+#pretrain ckpt file and train ckpt files
+/models/pretrain/*
+/models/train/*
 
 #cache
-yolo/__pycache__/*
-yolo/dataset/__pycache__/*
-yolo/net/__pycache__/*
-yolo/solver/__pycache__/*
-yolo/utils/__pycache__/*
-.idea/
+/yolo/__pycache__/*
+/yolo/dataset/__pycache/*
+/yolo/net/__pycache__/*
+/yolo/solver/__pycache__/*
+/yolo/utils/__pycache__/*

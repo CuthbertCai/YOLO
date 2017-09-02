@@ -14,7 +14,7 @@ Numpy 1.12.0
 Opencv-python 3.3.0.9
 ```
 ### Download pretrained model ###
-[yolo_tiny.ckpt][3]
+[yolo_tiny.ckpt][3]  
 `mv yolo_tiny.ckpt models/pretrain`
 
 ### Train ###

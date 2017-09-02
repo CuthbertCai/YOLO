@@ -8,9 +8,9 @@ models/pretrain/*
 models/train/*
 
 #cache
-yolo/__pycache__/
-yolo/dataset/__pycache__/
-yolo/net/__pycache__/
-yolo/solver/__pycache__/
-yolo/utils/__pycache__/
+yolo/__pycache__/*
+yolo/dataset/__pycache__/*
+yolo/net/__pycache__/*
+yolo/solver/__pycache__/*
+yolo/utils/__pycache__/*
 .idea/

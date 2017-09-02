@@ -1,5 +1,1 @@
-yolo/__pycache__/
-yolo/net/__pycache/
-yolo/dataset/__pycache
-yolo/utils/__pycache
-yolo/solver/__pycache
+.idea

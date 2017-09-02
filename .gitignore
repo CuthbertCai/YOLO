@@ -4,4 +4,7 @@ models/train/*
 
 #cache
 yolo/__pycache__/
-yolo/**/__pycache__/
+yolo/**/*.pyc
+
+#data
+data/*
